@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
+  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
 </p>
 
 # Node.js Exchange Terminal App
